@@ -1,6 +1,6 @@
 ---
 name: z-test-kibosh-solace
-icon_file: resources/kibosh_solace.png
+icon_file: resources/kibosh-solace.png
 label: Test Kibosh Solace PubSub+
 description: Test tile for Kibosh with Solace PubSub+ helm chart
 
