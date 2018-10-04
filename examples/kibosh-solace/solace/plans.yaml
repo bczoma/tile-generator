@@ -1,0 +1,6 @@
+- name: "non-ha"
+  description: "Solace PubSub+ non-HA deployment"
+  file: "non-ha.yaml"
+- name: "ha"
+  description: "Solace PubSub+ HA deployment"
+  file: "ha.yaml"
