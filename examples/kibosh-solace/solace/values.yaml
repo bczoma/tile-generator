@@ -23,9 +23,11 @@ service:
     - port: 8080
       protocol: TCP
       name: semp
+      targetport: 8080
     - port: 55555
       protocol: TCP
       name: smf
+      targetport: 55555
     - port: 943
       protocol: TCP
       name: semptls
